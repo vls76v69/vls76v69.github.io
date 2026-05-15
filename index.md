@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "政宗君的网站"
-  text: "我的技术踩坑日记"
+  text: "我的技术踩坑日记！"
   tagline: My great project tagline
   actions:
     - theme: brand
